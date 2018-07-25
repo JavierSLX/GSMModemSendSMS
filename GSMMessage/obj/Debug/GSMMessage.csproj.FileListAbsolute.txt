@@ -1,0 +1,9 @@
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\bin\Debug\GSMMessage.exe.config
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.csprojResolveAssemblyReference.cache
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.Form1.resources
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.Properties.Resources.resources
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.csproj.GenerateResource.Cache
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\bin\Debug\GSMMessage.exe
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\bin\Debug\GSMMessage.pdb
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.exe
+C:\Users\Morpheus\Desktop\GSMMessage\GSMMessage\obj\Debug\GSMMessage.pdb
